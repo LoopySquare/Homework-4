@@ -1,1 +1,2 @@
 # Homework-4
+A JavaScript quiz, featuring 10 random questions. Once you start the game, you will have 75 seconds to complete the quiz. Every question answered incorrectly will decrease your time by 10 seconds. If your time reaches 0, the quiz is over. Your score is equal to your time remaining. After the quiz ends, you can type your name to save your score to local storage. If your score is one of the top 5 scores, your name and score will be added to the highscores list.
